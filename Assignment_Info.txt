@@ -1,0 +1,2 @@
+"ISYS 5713-Individual Assignment 1" 
+"For this Assignment, I chose to share a little information about myself as I learn the basics of Git" 
